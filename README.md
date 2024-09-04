@@ -1,2 +1,2 @@
-# OIBSIP Data Science Intern 
+# OIBSIP Data Science
 Sai Bharadwaj
